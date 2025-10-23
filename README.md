@@ -1,75 +1,80 @@
-# 👋 Hi there, I’m Esmail Hamza
+# 👋 Hi — I’m Esmail Ebrahim Hamza
 
-**Systems Analyst & Full‑Stack Developer @ XAIR Informatics**  
-🎓 B.Sc. Information Systems, Sana’a University ’24
-📍 Sana’a, Yemen • 📧 esmailebraheem771@gmail.com • [LinkedIn](https://www.linkedin.com/in/esmailhamza/)
+**Systems Analyst & Full-Stack Developer @ XAIR Informatics**  
+🎓 B.Sc. Information Systems, Sana’a University ’24  
+📍 Sana’a, Yemen • 📧 esmailebraheem771@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/esmailhamza/) • https://github.com/EsmailEbrahim
 
 ---
 
 ## 🔭 About Me
-I’m passionate about delivering high‑quality software using Agile methodologies. I specialize in Frappe/ERPNext, CI/CD automation with GitHub Actions, and building data‑driven BI dashboards.
+I build and operate reliable full-stack systems with a focus on Frappe/ERPNext, modern JavaScript front-ends (Vue.js + Tailwind), and scalable data infrastructure. I enjoy applying DevOps practices (Docker, GitHub Actions) and time-series technologies (TimescaleDB) to improve reliability, observability, and delivery velocity.
 
 ---
 
-## 💼 Professional Experience
+## 💼 Current & Recent Work
 
-### Systems Analyst & Developer, **XAIR Informatics**  
+### Systems Analyst & Developer — **XAIR Informatics**  
 **Nov 2023 – Present**  
-- Designed, implemented, and maintained end‑to‑end CI/CD pipelines with GitHub Actions.  
-- Customized ERPNext modules and built full‑stack applications on the Frappe Framework.  
-- Developed complex SQL‑powered BI reports and dashboards (dbt, Metabase, Frappe Insights).
+- Implemented **TimescaleDB** for time-series warehousing and optimized temporal queries.  
+- Containerized services and standardized environments using **Docker** & **Docker Compose**.  
+- Automated CI/CD and maintenance tasks with **GitHub Actions** (e.g., automated DB schema dumps and DBML/ERD artifact generation).  
+- Enforced multi-tenant security using **PostgreSQL RLS** and set tenant context from backend services.  
+- Managed PostgreSQL (schema design, backups/restores) and administered via **pgAdmin4**.  
+- Deployed and maintained Django, Vue.js, FastAPI apps on **Contabo** Ubuntu servers; configured **Nginx** and firewall rules.  
+- Built BI reports & dashboards (dbt, Metabase, Frappe Insights) and documented DB schemas with **DBML**.
 
-### Freelance POS System Developer  
-**Nov 2024 – Mar 2025**  
-- Architected a multi‑branch restaurant POS using Frappe & Vue.js, featuring real‑time order entry and table management.  
-- Integrated inventory tracking, sales analytics, and multi‑user authentication.  
-- Collaborated directly with stakeholders to gather requirements and iterate on prototypes.
+### Remote Developer (Contract) — **Ebkar Technology & Management Solutions** (Frappe partner)  
+**Apr 2025 – Sep 2025 (Remote)**  
+- Delivered feature development, bug fixes, and version upgrades across POS UI and custom Frappe apps.  
+- Implemented front-end features using **Vue.js** + **Tailwind CSS** and fixed cross-version migration issues.  
+- Collaborated remotely via Git, performed code reviews, and followed task-based delivery.
 
-### Project Manager & Developer, **Postgraduate Studies Administration System (PSA)**  
-**Jan 2024 – Aug 2024**  
-- Led a 5‑member team to deliver a web‑based postgraduate administration system for Sana’a University.  
-- Implemented modules for supervisor assignment, enrollment workflows, and academic councils.  
-- Employed Agile practices and GitHub for project planning, code review, and version control.
+### Freelance — Restaurant POS & Surveillance Systems  
+**Nov 2024 – Mar 2025 (POS)** · **Sep 2021 – Present (Surveillance)**  
+- Architected a multi-branch restaurant POS using Frappe & Vue.js (real-time order entry, table management, inventory, sales analytics).  
+- Programmed, installed, and maintained commercial surveillance camera systems.
+
+---
+
+## 🚀 Featured Projects
+- **PSA (Postgraduate Studies Admin System)** — Graduation project using Frappe for postgraduate workflows. ▶️ https://github.com/EsmailEbrahim/psa  
+- **Restaurant POS** — Multi-branch point-of-sale system (Frappe + Vue.js).  
+- **Custom ERPNext Apps** — Domain-specific modules and reports for XAIR Informatics.
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages:** Python · JavaScript · PHP · C++ · C#  
-- **Frameworks & Platforms:** Frappe · ERPNext · Vue.js · Flask · Django · ASP.NET Core MVC  
-- **CI/CD & DevOps:** GitHub Actions
-- **Databases & BI:** MySQL · PostgreSQL · SQL · dbt · Metabase · Frappe Insights  
-- **Web & UI:** HTML · CSS · Tailwind · Vue.js  
-- **Analysis & Design:** UML · ERD · DFD  
-- **Version Control:** Git · GitHub  
-- **Soft Skills:** Agile/Scrum · Team Collaboration · Problem-Solving
+**Languages & Frameworks**  
+Python · JavaScript · Vue.js · Tailwind CSS · Frappe / ERPNext · Django · Flask
 
----
+**Databases & Data Engineering**  
+PostgreSQL · TimescaleDB · PostgreSQL RLS · DBML · SQL · pgAdmin4
 
-## 🚀 Featured Projects
+**DevOps & Deployment**  
+Docker · Docker Compose · GitHub Actions · Nginx · Contabo (Ubuntu server provisioning)
 
-| Project | Description |
-| :-----: | ----------- |
-| **PSA System** | Postgraduate admission & admin system for Sana’a University |
-| **Restaurant POS** | Vue.js & Frappe‑based point‑of‑sale for a multi‑branch group |
-| **Custom ERPNext Apps** | Domain‑specific modules for XAIR Informatics |
+**BI & Reporting**  
+dbt · Metabase · Frappe Insights · SQL-powered dashboards
+
+**Tools & Processes**  
+Git · Postman · Taiga (Scrum) · Trello · CI/CD · ERD / UML / DFD
 
 ---
 
 ## 🎓 Education
-
-**B.Sc. Information Systems**, Sana’a University (Oct 2020 – Aug 2024)  
-- Graduated with distinction (GPA: 92.02%)  
-- Graduation Project: Postgraduate Studies Administration System (PSA) • [GitHub Repo](https://github.com/EsmailEbrahim/psa)
+**B.Sc. Information Systems**, Sana’a University (Oct 2020 – Aug 2024)  
+- Graduated with distinction (GPA: 92.02%)  
+- Graduation Project: Postgraduate Studies Administration System (PSA) — https://github.com/EsmailEbrahim/psa
 
 ---
 
 ## 📜 Certifications
-
-- Web Development with Frappe & ERPNext, FCIT, Sana’a University (2024)  
-- Web Development with Django & Flask, Technical Leaders College (2023)  
-- Python Basics, Technical Leaders College (2023)  
-- Computer Networks & Network Security, Mahara Tech (2022)
+- Frappe Framework Training Bootcamp — FCIT, Sana’a University (2023–2024)  
+- Web Development with Django & Flask — Technical Leaders College (2023)  
+- Python Basics — Technical Leaders College (2023)  
+- Computer Networks & Network Security — Mahara Tech (2022)
 
 ---
 
@@ -82,7 +87,7 @@ I’m passionate about delivering high‑quality software using Agile methodolog
 
 ## 🤝 Let’s Connect
 - 📧 esmailebraheem771@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/esmailhamza/)  
-- 🌐 [Portfolio](https://github.com/EsmailEbrahim/EsmailEbrahim)
+- 💼 https://www.linkedin.com/in/esmailhamza/  
+- 🌐 Portfolio: https://esmail-hamza.onrender.com
 
-*Feel free to explore my repositories or reach out if you’d like to collaborate!*  
+*Open to remote contracts and collaboration — feel free to reach out!*
